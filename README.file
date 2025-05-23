@@ -1,0 +1,23 @@
+| 📸 Image Gallery |
+
+A simple and responsive image gallery built using HTML, CSS, and JavaScript. It displays a grid of images with smooth hover effects and  lightbox preview.
+
+  || 🌐 Live Demo ||  
+  
+|| 🚀 Features ||
+
+- Responsive grid layout
+- Smooth hover effects
+- Clean and modern design
+
+ |🛠️ Tech Stack |
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
+
+|  📁 Installation |
+
+```bash
+git clone https://github.com/farhanbaber/image-gallery.git
+cd image-gallery
